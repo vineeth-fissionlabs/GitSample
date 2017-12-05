@@ -1,17 +1,12 @@
 Editing from Web
 2nd Editing from web
+for 1st commit
+for 2nd commit
+for 3rd commit
+for 4th commit
+for 5th commit
 vdadavdavnew file in develop branch 
 Add wand checkout
 
 
 
-for 1st commit
-
-
-for 2nd commit
-
-for 3rd commit
-
-for 4th commit
-
-for 5th commit
